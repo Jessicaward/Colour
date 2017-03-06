@@ -1,0 +1,3 @@
+﻿Tiles are 50x50.
+Screen resolution is 700x700.
+Logo is 1024x720

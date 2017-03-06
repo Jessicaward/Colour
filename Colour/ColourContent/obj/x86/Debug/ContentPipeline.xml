@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>textures\dirt.png</Source>
+      <Name>textures\dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\dirt.xnb</Output>
+      <Time>2017-02-02T16:39:13.5263963+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\grass.png</Source>
+      <Name>textures\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\grass.xnb</Output>
+      <Time>2017-02-02T16:39:13.5273964+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\sand.png</Source>
+      <Name>textures\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\sand.xnb</Output>
+      <Time>2017-02-02T16:39:13.5283964+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Snow.png</Source>
+      <Name>textures\Snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\Snow.xnb</Output>
+      <Time>2017-02-02T16:39:13.5293965+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\stone.png</Source>
+      <Name>textures\stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\stone.xnb</Output>
+      <Time>2017-02-02T16:39:13.5303966+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\water.png</Source>
+      <Name>textures\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\water.xnb</Output>
+      <Time>2017-02-02T16:39:13.5323967+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Logo.png</Source>
+      <Name>Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\Logo.xnb</Output>
+      <Time>2017-02-02T16:39:39.0078538+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\player.png</Source>
+      <Name>textures\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\player.xnb</Output>
+      <Time>2017-02-02T22:14:50.8753942+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gradients\bluepurple.png</Source>
+      <Name>gradients\bluepurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\gradients\bluepurple.xnb</Output>
+      <Time>2017-02-02T22:46:15.9161763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gradients\limelime.png</Source>
+      <Name>gradients\limelime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\gradients\limelime.xnb</Output>
+      <Time>2017-02-02T22:46:15.9161763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gradients\purplepink.png</Source>
+      <Name>gradients\purplepink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\gradients\purplepink.xnb</Output>
+      <Time>2017-02-02T22:46:15.9473764+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gradients\yelloworange.png</Source>
+      <Name>gradients\yelloworange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\gradients\yelloworange.xnb</Output>
+      <Time>2017-02-02T22:46:16.1657768+00:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\blank.png</Source>
+      <Name>textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\textures\blank.xnb</Output>
+      <Time>2017-02-09T11:55:42.7797175+00:00</Time>
+    </Item>
+    <Item>
+      <Source>text\HelpInformation.png</Source>
+      <Name>text\HelpInformation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\text\HelpInformation.xnb</Output>
+      <Time>2017-02-09T13:28:22.3807085+00:00</Time>
+    </Item>
+    <Item>
+      <Source>text\HelpText.png</Source>
+      <Name>text\HelpText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\text\HelpText.xnb</Output>
+      <Time>2017-02-09T13:28:22.3817085+00:00</Time>
+    </Item>
+    <Item>
+      <Source>text\PlayText.png</Source>
+      <Name>text\PlayText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\text\PlayText.xnb</Output>
+      <Time>2017-02-09T13:28:22.3817085+00:00</Time>
+    </Item>
+    <Item>
+      <Source>text\QuitText.png</Source>
+      <Name>text\QuitText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\text\QuitText.xnb</Output>
+      <Time>2017-02-09T13:28:22.3837086+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\ButtonClick.wav</Source>
+      <Name>sounds\ButtonClick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\sounds\ButtonClick.xnb</Output>
+      <Time>2017-02-09T14:37:44.795785+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\ColourContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\ColourContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jess\Documents\Visual Studio 2010\Projects\Colour\Colour\Colour\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-26T22:59:48.5121672+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
