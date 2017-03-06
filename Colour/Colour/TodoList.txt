@@ -1,1 +1,5 @@
-﻿
+﻿Fix GUI, menu buttons don't work.
+ 
+ Add Settings option in menu.
+ 
+ Fix tile map bug, coloured tiles 
