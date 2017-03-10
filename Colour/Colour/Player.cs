@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -59,27 +59,37 @@ namespace Colour
             global.ButtonClickSound.Play();
         }
 
+        public void LogXYTiles()
+        {
+            Console.WriteLine("X: " + playerTileX);
+            Console.WriteLine("Y: " + playerTileY);
+        }
+
         public void MoveLeft()
         {
             playerTileX--;
+            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveRight()
         {
             playerTileX++;
+            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveUp()
         {
             playerTileY--;
+            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveDown()
         {
             playerTileY++;
+            LogXYTiles();
             //PlayMoveSound();
         }
 
