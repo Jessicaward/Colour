@@ -59,37 +59,27 @@ namespace Colour
             global.ButtonClickSound.Play();
         }
 
-        public void LogXYTiles()
-        {
-            Console.WriteLine("X: " + playerTileX);
-            Console.WriteLine("Y: " + playerTileY);
-        }
-
         public void MoveLeft()
         {
             playerTileX--;
-            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveRight()
         {
             playerTileX++;
-            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveUp()
         {
             playerTileY--;
-            LogXYTiles();
             //PlayMoveSound();
         }
 
         public void MoveDown()
         {
             playerTileY++;
-            LogXYTiles();
             //PlayMoveSound();
         }
 
@@ -108,9 +98,6 @@ namespace Colour
 
             KeyboardState newKeyState = Keyboard.GetState();
             KeyboardState oldKeyState = newKeyState;
-
-            Console.WriteLine("X: " + playerTileX);
-            Console.WriteLine("Y: " + playerTileY);
 
             //4 steps per second
             if (step == 0 || step == 15 || step == 30 || step == 45)
